@@ -1,20 +1,30 @@
-# books
+## 优秀学习书籍
+* [golang](./books/golang/README.md)
 
-## Golang
+* [rust](./books/rust/README.md)
 
-* [Go入门指南](https://books.studygolang.com/the-way-to-go_ZH_CN/)
-* [Go 语言圣经](https://docs.hacknode.org/gopl-zh/)
-* [Mastering GO](https://books.studygolang.com/Mastering_Go_ZH_CN/)
-* [Go RPC 开发指南](https://books.studygolang.com/go-rpc-programming-guide/)
-* [Golang修养之路](https://www.kancloud.cn/aceld/golang)
-* [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
-* [Go 语言编程之旅](https://golang2.eddycjy.com/)
-* [Go 语言设计与实现](https://draveness.me/golang/)
-* [Effective Go](https://golang.org/doc/effective_go)
-* [Effective Go 中文版](https://learnku.com/docs/effective-go/2020/introduction/6236)
+## 网络编程
 
+* [http](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+* [http Content-Type对照表](https://tool.oschina.net/commons/)
+* [http 状态码详解](https://tool.oschina.net/commons?type=5)
 
-## Rust
+* [网络编程懒人入门](http://www.52im.net/thread-1095-1-1.html)
 
-* [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)
-* [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+## 系统设计
+
+### 电商
+* [新零售数据结构设计](https://zq99299.github.io/mysql-tutorial/ali-new-retail/04/)
+* [订单设计](https://www.infoq.cn/article/jo81gruwb12hu4ahboaj)
+* [电商设计手册](http://skrshop.tech/#/)
+
+## 架构设计
+
+* [B站高可用架构实践](https://zhuanlan.zhihu.com/p/139258985)
+## 面试题
+
+* [http](https://q.shanyue.tech/base/http/)
+* [计算机基础](https://q.shanyue.tech/base/)
+* [操作系统](https://q.shanyue.tech/base/os/)
+* [后端](https://q.shanyue.tech/server/server/)
+
